@@ -2,7 +2,7 @@
 //  CupcakeCornerApp.swift
 //  CupcakeCorner
 //
-//  Created by Ali Syed on 2025-04-22.
+//  Created by Paul Hudson on 09/11/2023.
 //
 
 import SwiftUI
