@@ -6,7 +6,13 @@
 
 ## Screenshots / Demos
 
-...
+Part 1
+
+https://github.com/user-attachments/assets/271415f6-b9e5-4d70-82b5-43db6148fd07
+
+<img width="237" alt="Screenshot 2025-05-01 at 7 47 01 AM" src="https://github.com/user-attachments/assets/10d622dd-c3b3-473b-8612-a72d282314d1" />
+
+<img width="237" alt="Screenshot 2025-05-01 at 7 47 01 AM" src="https://github.com/user-attachments/assets/279b9825-211f-43ab-a5a8-a73140f1742a" />
 
 ### Built With
 
