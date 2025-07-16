@@ -6,13 +6,23 @@
 
 ## Screenshots / Demos
 
-Part 1
+### Day 1
 
 https://github.com/user-attachments/assets/271415f6-b9e5-4d70-82b5-43db6148fd07
 
 <img width="237" alt="Screenshot 2025-05-01 at 7 47 01 AM" src="https://github.com/user-attachments/assets/10d622dd-c3b3-473b-8612-a72d282314d1" />
 
 <img width="237" alt="Screenshot 2025-05-01 at 7 47 01 AM" src="https://github.com/user-attachments/assets/279b9825-211f-43ab-a5a8-a73140f1742a" />
+
+https://github.com/user-attachments/assets/c4cbcced-69e2-4138-83c4-c521c389c11d
+
+### Day 2
+
+#### Part 1
+
+<img width="469" height="553" alt="Screenshot 2025-07-16 at 8 46 37 AM" src="https://github.com/user-attachments/assets/6d18e30f-1e10-46f1-b332-a2e44e7619ee" />
+
+<img width="467" height="596" alt="Screenshot 2025-07-16 at 8 47 37 AM" src="https://github.com/user-attachments/assets/f982985f-06a0-4ca2-8dab-ed35da66b460" />
 
 ### Built With
 
