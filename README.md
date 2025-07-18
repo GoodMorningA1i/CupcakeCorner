@@ -24,6 +24,10 @@ https://github.com/user-attachments/assets/c4cbcced-69e2-4138-83c4-c521c389c11d
 
 <img width="467" height="596" alt="Screenshot 2025-07-16 at 8 47 37 AM" src="https://github.com/user-attachments/assets/f982985f-06a0-4ca2-8dab-ed35da66b460" />
 
+### Final Part
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 07 15 54" src="https://github.com/user-attachments/assets/36876ad7-c943-4817-b4ae-e71b1f5e1bc0" />
+
 ### Built With
 
 Xcode, SwiftUI
