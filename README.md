@@ -2,7 +2,9 @@
 
 ## About the Project
 
-...
+A multi-screen app to order cupcackes. When you place an order, we will simulate a network call!
+
+This project covers lots of networking topics like URLSession, decoding, encoding, Codable, AsyncImage, ...
 
 ## Screenshots / Demos
 
